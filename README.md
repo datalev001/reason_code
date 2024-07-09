@@ -1,1 +1,5 @@
-# reason_code
+# Cracking the Code: Unveiling the "Why" Behind Machine Learning Predictions
+Unlocking Insights with Elasticity Analysis and SHAP for Smarter AI Decisions
+Machine learning models are everywhere, from predicting product sales at Apple to setting insurance premiums. Car dealers use them to price used cars, merchants forecast product demand, and pharmaceutical companies gauge drug effects. A familiar example is credit bureaus providing credit scores and the accompanying reasons for those scores.
+While we rely on these predictions, knowing the reasons is crucial. For instance, if Apple understands why a product is popular, it can replicate its success by boosting sales. If a pharmaceutical company knows why a drug works for certain patients, it can improve treatment protocols.
+In short, predictions tell us what might happen, but reason codes explain why. This article will focus on the conceptual reason codes in machine learning and how to create and interpret them using methods like elasticity analysis and SHAP analysis.
